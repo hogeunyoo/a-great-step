@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">A Great Step</string>
+
+    <string name="button_connect">CONNECT</string>
+    <string name="button_start">START</string>
+    <string name="button_pause">STOP</string>
+    <string name="button_stop">RESET</string>
+
+
+    <string name="label_step">Steps</string>
+
+    <string name="label_height">Height</string>
+    <string name="label_velocity">Velocity</string>
+    <string name="label_unitForVelocity">km/h</string>
+    <string name="label_distance">Distance</string>
+    <string name="label_unitForDistance">m</string>
+    <string name="label_time">Time</string>
+    <string name="label_unitForTime">s</string>
+    <string name="edit_height">Enter a height</string>
+</resources>
